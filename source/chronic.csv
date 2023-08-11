@@ -1,0 +1,29 @@
+code,system
+H3...00,readv2
+H31..00,readv2
+H310000,readv2
+H311100,readv2
+H312.00,readv2
+H312000,readv2
+H312011,readv2
+H312300,readv2
+H312z00,readv2
+H31y100,readv2
+H31z.00,readv2
+491,oxmis
+491 E,oxmis
+H312100,readv2
+H32..00,readv2
+H321.00,readv2
+H322.00,readv2
+H32y100,readv2
+H32y200,readv2
+H32z.00,readv2
+492,oxmis
+492 AC,oxmis
+H36..00,readv2
+H37..00,readv2
+H38..00,readv2
+H3z..11,readv2
+5199G,oxmis
+5199GP,oxmis
